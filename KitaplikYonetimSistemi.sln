@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitaplikYonetimSistemi.Api", "KitaplikYonetimSistemi.Api.csproj", "{0C9C3C86-0ABF-420B-A0A3-B0FD2BF3918F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaplik.Application", "..\Kitaplik.Application\Kitaplik.Application.csproj", "{922877C5-6A9F-47F7-91C7-C3E0B0CA0E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaplik.Domain", "..\Kitaplik.Domain\Kitaplik.Domain.csproj", "{BFD72016-1A38-41E4-8AC0-4F144329AB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaplik.Infrastructure", "..\Kitaplik.Infrastructure\Kitaplik.Infrastructure.csproj", "{EEBBC119-859E-4DCE-919D-A68E44211E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9C3C86-0ABF-420B-A0A3-B0FD2BF3918F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9C3C86-0ABF-420B-A0A3-B0FD2BF3918F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9C3C86-0ABF-420B-A0A3-B0FD2BF3918F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9C3C86-0ABF-420B-A0A3-B0FD2BF3918F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922877C5-6A9F-47F7-91C7-C3E0B0CA0E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922877C5-6A9F-47F7-91C7-C3E0B0CA0E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922877C5-6A9F-47F7-91C7-C3E0B0CA0E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922877C5-6A9F-47F7-91C7-C3E0B0CA0E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD72016-1A38-41E4-8AC0-4F144329AB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD72016-1A38-41E4-8AC0-4F144329AB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD72016-1A38-41E4-8AC0-4F144329AB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD72016-1A38-41E4-8AC0-4F144329AB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBBC119-859E-4DCE-919D-A68E44211E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBBC119-859E-4DCE-919D-A68E44211E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBBC119-859E-4DCE-919D-A68E44211E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBBC119-859E-4DCE-919D-A68E44211E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55CF888-4ABD-4F72-9F55-5C7B8E2C9886}
+	EndGlobalSection
+EndGlobal

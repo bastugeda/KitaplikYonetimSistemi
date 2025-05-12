@@ -1,0 +1,6 @@
+@KitaplikYonetimSistemi_HostAddress = http://localhost:5248
+
+GET {{KitaplikYonetimSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
